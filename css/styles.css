@@ -61,7 +61,7 @@ tfoot th {
 
 thead,
 tfoot {
-  background: url(image.jpg);
+  background: rgb(292, 187, 17);
     color: white;
     text-shadow: 1px 1px 1px black;
 }
